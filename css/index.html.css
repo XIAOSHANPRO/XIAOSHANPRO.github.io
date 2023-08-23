@@ -6,6 +6,39 @@
 
 .XiaZaicssStart {}
 
+.uf28b9 {
+    background-image: ./images/6ps.jpg;
+    background-size: auto 100%;
+}
+
+.udba44 {
+    color: rgba(242, 131, 196, 1);
+}
+
+.u7364c {
+    color: rgba(242, 131, 196, 1);
+}
+
+.u01809 {
+    color: rgba(242, 131, 196, 1);
+}
+
+.u3c442 {
+    color: rgba(242, 131, 196, 1);
+}
+
+.u32232 {
+    color: rgba(242, 131, 196, 1);
+}
+
+.u87b5d {
+    color: rgba(242, 131, 196, 1);
+}
+
+.u3ed02 {
+    color: rgba(242, 131, 196, 1);
+}
+
 .u24d49 {
     font-weight: bold;
     color: rgba(117, 152, 86, 1);
@@ -13,22 +46,45 @@
 
 .u60758 {
     color: rgba(92, 152, 86, 1);
+    font-weight: bold;
 }
 
 .u407ee {
     color: rgba(10, 9, 10, 1);
+    font-weight: normal;
 }
 
-.u0f2c1 {
-    color: rgba(18, 245, 151, 1);
+.u9950c {
+    color: rgba(92, 152, 86, 1);
+    font-weight: bold;
 }
 
-.u92923 {
-    color: rgba(193, 126, 238, 1);
+.ud907e {
+    color: rgba(3, 3, 3, 0.92);
+    font-weight: normal;
 }
 
-.ua7a11 {
-    color: rgba(8, 8, 8, 1);
+.u1ac67 {
+    padding-top: 40px;
+}
+
+.u3e590 {
+    width: 100%;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+.u6be51 {
+    color: rgba(244, 247, 245, 1);
+    font-weight: lighter;
+}
+
+.u5aedd {
+    display: inline;
+    color: rgba(21, 21, 21, 1);
+    box-shadow: 0px 0px 0px 0px #ccc;
 }
 
 .XiaZaicssEnd {}
